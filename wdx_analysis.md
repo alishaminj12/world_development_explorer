@@ -88,5 +88,8 @@ Solar and wind energy are that it is relatively predictable and reliable, it is 
 
 ![](Electricity_production_from_renewable_sources_excluding_hydroelectric_in_2010.png)
 
+## Conclusion
+
+To conclude, the production and consumption of electricity are indirectly proportional to the pollution created by that country. We see that more a country relies on fossil fuels to meet its energy demands, the more it contributes to pollution created. To cope with this, the best way to go about this is by shifting their energy production to renewable sources. However, they too pose challenges with regards to initial investment and other constraints. Even though nuclear fuel is an option that can be considered, it is both expensive and a hassle to maintain for any country, even more so to developing nations. The challenges with regards to the mining of fossil fuels and the consequent pollution from them is indeed a reality that need to be addressed by us.
 
 
