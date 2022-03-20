@@ -68,7 +68,7 @@ Italy has the highest production of electricity using both natural gases and oil
 
 Natural gas is relatively inexpensive to extract and is a cleaner fossil fuel than oil or coal. Italy and Russia produce 50 percent of total electricity from natural gas. Followed by Japan and United States, using between 20 to 30 percent. On the contrary, China produces the least amount. When natural gas is burned, it only releases carbon dioxide and water vapor.
 
-![](Electricity_product_on_from_natural_gas_sources_2.png)
+![](Electricity_production_from_natural_gas_sources_2.png)
 
 With regards to, electricity produced from oils is the least used by all countries only under seven percent in total. However, Italy and Japan use around 7% to generate electricity, followed by Brazil and India. Other countries use below one percent of oil for production.
 
