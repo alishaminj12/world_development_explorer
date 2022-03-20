@@ -50,7 +50,7 @@ Over the years, the population will increase demand, which will also require an 
 
 Consumption of energy is highest in developed countries and countries with higher populations. Even though there is an immense difference in the population of these countries, the electricity consumption between them is not the same. In 2010, Canada has the highest consumption rate of around 15000 kWh per capita, followed by the United States with the 13500-kilowatt hour. Majority of countries utilized electric power between 5000 to 9000 kWh including Japan, France, Germany, Russia, and Italy. Most populated countries China and India only consumed 3000 and around 1000 kilowatt-hour. However, the world's electricity consumption has continuously grown over the past half-decade, reaching approximately 23,900 terawatt-hours in 2019.
 
-![](Electricity_power_consumption_2.png)
+![](Electric_power_consumption_2.png)
 
 ## Production of electricity
 
