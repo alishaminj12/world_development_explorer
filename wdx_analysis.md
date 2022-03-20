@@ -42,7 +42,7 @@ Over the years, the population will increase demand, which will also require an 
 
 Consumption of energy is highest in developed countries and countries with higher populations. Even though there is an immense difference in the population of these countries, the electricity consumption between them is not the same. In 2010, Canada has the highest consumption rate of around 15000 kWh per capita, followed by the United States with the 13500-kilowatt hour. Majority of countries utilized electric power between 5000 to 9000 kWh including Japan, France, Germany, Russia, and Italy. Most populated countries China and India only consumed 3000 and around 1000 kilowatt-hour. However, the world's electricity consumption has continuously grown over the past half-decade, reaching approximately 23,900 terawatt-hours in 2019.
 
-![](Electricity_power_consumption_in_2010.png)
+![](Electricity_power_consumption_2.png)
 
 ## Production of electricity
 
@@ -52,7 +52,7 @@ Over the past century, the main energy sources used for generating electricity h
 
 Non-renewable energy sources diminish over time and are not able to replenish themselves. Most non-renewable energy sources are fossil fuels: coal, petroleum, and natural gas. The primary fossil fuel is used for the production of electricity is coal, which is comparatively cheap to obtain, transport, and handle. Coal is a solid fossil fuel that is used for heating homes and generating power plants. China and India are the highest producers of electricity by coal. Brazil uses much lower amounts of coal for its electricity production needs compared to other countries.
 
-![](Electricity_production_from_coal_sources_in_2010.png)
+![](Electricity_production_from_coal_sources_2.png)
 
 ## Natural Gases and Oil
 
@@ -60,11 +60,11 @@ Italy has the highest production of electricity using both natural gases and oil
 
 Natural gas is relatively inexpensive to extract and is a cleaner fossil fuel than oil or coal. Italy and Russia produce 50 percent of total electricity from natural gas. Followed by Japan and United States, using between 20 to 30 percent. On the contrary, China produces the least amount. When natural gas is burned, it only releases carbon dioxide and water vapor.
 
-![](Electricity_product_on_from_natural_gas_sources_in_2010.png)
+![](Electricity_product_on_from_natural_gas_sources_2.png)
 
 With regards to, electricity produced from oils is the least used by all countries only under seven percent in total. However, Italy and Japan use around 7% to generate electricity, followed by Brazil and India. Other countries use below one percent of oil for production.
 
-![](Electricity_production_from_oil_sources_in_2010.png)
+![](Electricity_production_from_oil_sources_2.png)
 
 ## CO2 Emissions from gaseous fuel consumption
 
